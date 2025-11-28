@@ -39,6 +39,28 @@
     color: var(--text-color-2);
 }
 
+.nav_ac .logo {
+    height: 40px;
+    width: auto;
+    display: block;
+}
+
+.nav_ac .logo-white {
+    display: block;
+}
+
+.nav_ac .logo-black {
+    display: none;
+}
+
+[data-theme="light"] .nav_ac .logo-white {
+    display: none;
+}
+
+[data-theme="light"] .nav_ac .logo-black {
+    display: block;
+}
+
 .br-top,
 .br-bottom,
 .br-right,

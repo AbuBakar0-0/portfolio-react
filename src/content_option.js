@@ -7,9 +7,9 @@ const meta = {
 const introdata = {
     title: "I’m Abu Bakar",
     animated: {
-        first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop scalable software solutions",
+        first: "Full Stack Developer",
+        second: "Software Engineer",
+        third: "Laravel Developer",
     },
     description: "I'm a full stack developer with a passion for building scalable software solutions. I'm currently working in Pakistan",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
@@ -116,7 +116,7 @@ const dataportfolio = [
     },
     {
         img: "/assets/bcs.png",
-        description: "BCS — Billing Care Solutions, a React.JS application for medical billing company.",
+        description: "Billing Care Solutions, a React.JS application for medical billing company.",
         link: "https://billingcaresolutions.com",
         layout: "tall",
     },
