@@ -21,6 +21,7 @@
     overflow: hidden;
 }
 
+
 .po_item.wide {
     grid-column: span 2;
 }
