@@ -4,6 +4,8 @@
     grid-auto-rows: 240px;
     gap: 1.5rem;
     grid-auto-flow: dense;
+    margin-bottom: 4rem;
+    padding-bottom: 10rem;
 }
 
 .po_item {

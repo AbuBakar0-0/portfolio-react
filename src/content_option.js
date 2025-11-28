@@ -104,66 +104,69 @@ const services = [
 
 const dataportfolio = [
     {
-        img: "/assets/zenith.png",
-        description: "Zenith — SaaS product dashboard with live KPIs.",
-        link: "#",
+        img: "/assets/bolt.png",
+        description: "Bolt VPN — A secure and fast VPN service.",
+        link: "https://boltvpn.com",
         layout: "hero",
     },
     {
-        img: "/assets/bcs.png",
-        description: "BCS — billing care platform redesign.",
-        link: "#",
-        layout: "tall",
+        img: "/assets/zenith.png",
+        description: "Zenith Assistance — Wordpress Website for a Medical services company",
+        link: "https://zenithassistance.com",
     },
     {
-        img: "/assets/bolt.png",
-        description: "Bolt — logistics control tower for fleets.",
-        link: "#",
+        img: "/assets/bcs.png",
+        description: "BCS — Billing Care Solutions, a React.JS application for medical billing company.",
+        link: "https://billingcaresolutions.com",
+        layout: "tall",
     },
     {
         img: "/assets/concluons.png",
-        description: "Concluons — knowledge base built with Next.js.",
-        link: "#",
+        description: "Concluons — Real Estate Wordpress Website",
+        link: "https://concluons.com",
         layout: "wide",
-    },
-    {
-        img: "/assets/expresslab.png",
-        description: "ExpressLab — lab operations management suite.",
-        link: "#",
-    },
-    {
-        img: "/assets/comerzio.png",
-        description: "Comerzio — multi-tenant ecommerce storefront.",
-        link: "#",
-        layout: "wide",
-    },
-    {
-        img: "/assets/bntr.png",
-        description: "BNTR — investment portfolio analytics.",
-        link: "#",
     },
     {
         img: "/assets/euka.png",
-        description: "Euka — education platform with rich media lessons.",
-        link: "#",
-        layout: "tall",
+        description: "Euka — Turn TikTok Affiliates Into a Revenue-Generating Engine",
+        link: "https://euka.ai",
+        layout: "hero",
+    },
+    
+    {
+        img: "/assets/expresslab.png",
+        description: "ExpressLab — Lab Operations Management Suite",
+        link: "https://expresswellnesslab.com/",
+    },
+    {
+        img: "/assets/comerzio.png",
+        description: "Comerzio — Multi-tenant Ecommerce Storefront",
+        link: "https://comerzio.fly.dev",
+    },
+
+    {
+        img: "/assets/deeplawn.png",
+        description: "DeepLawn — AI Lawn-care Quoting Experience",
+        link: "https://deeplawn.com",
     },
     {
         img: "/assets/bcs-cms.png",
-        description: "BCS CMS — custom content tooling for clinics.",
-        link: "#",
+        description: "BCS CMS — Custom Content Management System for Clinics",
+        link: "https://bcs-cms.vercel.app",
+    },
+    {
+        img: "/assets/bntr.png",
+        description: "BNTR — Automate customer interactions across chat, voice, SMS, and email – so you can reclaim your time for what matters most.",
+        link: "https://bntr.ai",
     },
     {
         img: "/assets/smartspray.png",
-        description: "Smartspray — IoT dashboard for agri devices.",
-        link: "#",
-        layout: "wide",
+        description: "Smartspray — IoT Dashboard for Agri Devices",
+        link: "https://smartspray.io",
     },
-    {
-        img: "/assets/deeplawn.png",
-        description: "DeepLawn — AI lawn-care quoting experience.",
-        link: "#",
-    },
+
+
+
 ];
 
 const contactConfig = {
