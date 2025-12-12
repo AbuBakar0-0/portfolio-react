@@ -164,6 +164,11 @@ const dataportfolio = [
         description: "Smartspray — IoT Dashboard for Agri Devices",
         link: "https://smartspray.io",
     },
+    {
+        img: "/assets/lys.png",
+        description: "LYS — Lead Your School - Proactive Training for School Leaders and Teachers",
+        link: "https://leadyourschool.com",
+    },
 
 
 
